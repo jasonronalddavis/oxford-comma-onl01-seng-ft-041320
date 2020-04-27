@@ -1,5 +1,5 @@
 def oxford_comma(array)
-  puts array.join(" and ")
+ array.join(" and ")
 end
 
 #.push "starfruit".unshift "kiwi"
