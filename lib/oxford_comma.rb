@@ -3,6 +3,8 @@ if array.size == 2
  array.join(" and ")
  end
 end
+
+
 #.push "starfruit".unshift "kiwi"
 
 #def oxford_comma(array)
