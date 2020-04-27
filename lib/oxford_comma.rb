@@ -3,7 +3,6 @@ if array.size == 2
  array.join(" and ")
  else array.size == 3
   array.push "starfruit" 
-  array.unshift "kiwi"
   array.join(" and ")
  end
 end
