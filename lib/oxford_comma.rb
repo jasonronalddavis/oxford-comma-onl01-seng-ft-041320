@@ -4,7 +4,7 @@ if array.size == 2
  else array.size == 3
   puts array.push "starfruit" array.unshift "kiwi"
   end
-end
+
 
 
 #.push "starfruit".unshift "kiwi"
