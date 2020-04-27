@@ -1,10 +1,7 @@
 def oxford_comma(array)
-if array.index = 2
+if array.size = 2
  array.join(" and ")
- elsif array.index = 3
-  array.join(" and ")array.push "starfruit".unshift "kiwi"
-
-end
+ end
 end
 #.push "starfruit".unshift "kiwi"
 
